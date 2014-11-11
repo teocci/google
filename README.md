@@ -1,3 +1,3 @@
-google-map-api
+Google
 ==============
-This repository contains usefull examples of Google Maps JavaScript API v3.
+This repository contains codes which use various apis, technologies and tools of Google. #map-api 
